@@ -4,7 +4,7 @@ from typing import List
 
 def sum_distance(left: List[int], right: List[int]) -> int:
     """
-        part #1: https://adventofcode.com/2024/day/1
+        part #1: https://adventofcode.com/2024/day/1#part1
     """
     # sort and compute sum of differences
     return sum(
