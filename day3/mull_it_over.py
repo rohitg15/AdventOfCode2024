@@ -1,7 +1,6 @@
 import sys
 import re
 
-
 def parse_corrupted_memory(s: str) -> int:
     """
         part #1: https://adventofcode.com/2024/day/3/#part1
